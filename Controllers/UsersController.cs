@@ -133,6 +133,11 @@ namespace WebProject.Controllers
             return View(user);
         }
 
+        public async Task<IActionResult> Login()
+        {
+            return View();
+        }
+
         // POST: Users/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]

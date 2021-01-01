@@ -180,3 +180,10 @@ C:\Users\mehme\source\repos\WebProject\WebProject\obj\Debug\netcoreapp3.1\Razor\
 C:\Users\mehme\source\repos\WebProject\WebProject\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
 C:\Users\mehme\source\repos\WebProject\WebProject\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
 C:\Users\mehme\source\repos\WebProject\WebProject\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\mehme\source\repos\WebProject\WebProject\obj\Debug\netcoreapp3.1\Razor\Views\Comments\Create.cshtml.g.cs
+C:\Users\mehme\source\repos\WebProject\WebProject\obj\Debug\netcoreapp3.1\Razor\Views\Comments\Delete.cshtml.g.cs
+C:\Users\mehme\source\repos\WebProject\WebProject\obj\Debug\netcoreapp3.1\Razor\Views\Comments\Details.cshtml.g.cs
+C:\Users\mehme\source\repos\WebProject\WebProject\obj\Debug\netcoreapp3.1\Razor\Views\Comments\Edit.cshtml.g.cs
+C:\Users\mehme\source\repos\WebProject\WebProject\obj\Debug\netcoreapp3.1\Razor\Views\Comments\Index.cshtml.g.cs
+C:\Users\mehme\source\repos\WebProject\WebProject\obj\Debug\netcoreapp3.1\Razor\Views\Users\Login.cshtml.g.cs
+C:\Users\mehme\source\repos\WebProject\WebProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MyLayout.cshtml.g.cs
